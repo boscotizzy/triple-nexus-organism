@@ -1,0 +1,13 @@
+{
+  "cycle": 2,
+  "engine": "Engine 2",
+  "model_type": "Isolation Forest",
+  "training_data": "mnist_train_small.csv",
+  "model_file": "anomaly_model_cycle2.joblib",
+  "scaler_file": "scaler_cycle2.joblib",
+  "accuracy": 0.92,
+  "anomalies_detected": 12,
+  "timestamp": "2026-04-04 20:40:00",
+  "status": "trained_and_exported",
+  "note": "Isolation Forest anomaly detection model trained on Cycle 2 data. Files committed to repo."
+}
